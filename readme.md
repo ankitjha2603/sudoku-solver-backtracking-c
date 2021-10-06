@@ -1,4 +1,4 @@
-# sudoku-solver-c
+# sudoku-solver-backtracking-c
 This is a sudoku solver
 
 ## Algorithm Used
